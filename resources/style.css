@@ -1,6 +1,10 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .o-img-container {
 
-    background-color: aquamarine;
+    background-color: darkslateblue;
     width: 100%;
     
 
@@ -30,6 +34,19 @@
 {
     font-size: 0.6em;
     color: blue;
-    
+
+}
+
+.o-hobbie-container
+{
+    width: 20%;
+    margin: 1rem;
+    padding: 2rem 1rem;
+    background-color: brown;
+    color: cornsilk ;
+}
+#hobbieContainer2 
+{
+    background-color: darkgoldenrod ;
 
 }
