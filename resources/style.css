@@ -1,0 +1,35 @@
+.o-img-container {
+
+    background-color: aquamarine;
+    width: 100%;
+    
+
+}
+.o-img 
+{
+    width: 20%;
+}
+
+.o-info-container
+{
+    font-size: 20px;
+}
+
+.o-tittle
+{               
+    font-size: 1em;
+
+}
+
+.o-subtittle
+{
+    font-size: 0.8em;
+
+}
+.o-paragraph
+{
+    font-size: 0.6em;
+    color: blue;
+    
+
+}
